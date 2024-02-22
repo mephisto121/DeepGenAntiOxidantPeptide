@@ -22,7 +22,7 @@ Welcome to the repository for our article: "De Novo Antioxidant Peptide Design V
 
 ### Dataset Availability
 
-- The base model training dataset can be found [here](link_to_dataset).
-- For training the fine-tuned generative and classification models, we utilized the dataset available [here](link_to_dataset).
-
+- The base model training dataset can be found [here](https://data.mendeley.com/datasets/nr7cs764rc/1).
+- For training the fine-tuned generative and classification models, we utilized the dataset available [here](https://github.com/TobiasHeOl/AnOxPePred).
+- We also used peptipedia's dataset to check our model's output novelty [here](https://app.peptipedia.cl/)
 
