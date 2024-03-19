@@ -4,7 +4,7 @@
 
 ## About
 
-Welcome to the repository for our article: [De Novo Antioxidant Peptide Design Via Machine Learning and DFT Studies](https://www.nature.com/articles/s41598-024-57247-z#citeas). This project revolves around the development of a deep generative model, leveraging GRU layers, to create antioxidant peptides.
+Welcome to the repository for our article: [De Novo Antioxidant Peptide Design Via Machine Learning and DFT Studies](https://www.nature.com/articles/s41598-024-57247-z). This project revolves around the development of a deep generative model, leveraging GRU layers, to create antioxidant peptides.
 
 ### Project Overview
 
